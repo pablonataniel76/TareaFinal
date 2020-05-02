@@ -7,3 +7,4 @@ pepinillo
 carne
 mayonesa
 ketchup
+mostaza
