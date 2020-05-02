@@ -5,5 +5,4 @@ tomate
 pimenton
 pepinillo
 carne
-huevo
 
