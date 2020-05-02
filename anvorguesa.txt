@@ -2,3 +2,4 @@ pan
 queso
 lechuga
 tomate
+pimenton
