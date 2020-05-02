@@ -9,3 +9,4 @@ mayonesa
 ketchup
 mostaza
 llajua
+pan
