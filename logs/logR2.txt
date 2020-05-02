@@ -1,0 +1,73 @@
+commit 7de9c33c772b551c77c1d22632e6c9a30ddf9c02
+Author: pablonataniel76 <pablo.nataniel76@gmail.com>
+Date:   Sat May 2 11:33:28 2020 -0400
+
+    decima caracteristica r2
+
+commit ef8b496749cd652f82463eef7c3bc382c11205f7
+Author: pablonataniel76 <pablo.nataniel76@gmail.com>
+Date:   Sat May 2 11:32:47 2020 -0400
+
+    novena caracteristica r2
+
+commit 4d1d3713da655c84254a011d96a975229f5daea2
+Author: pablonataniel76 <pablo.nataniel76@gmail.com>
+Date:   Sat May 2 11:31:51 2020 -0400
+
+    octava caracteristica r2
+
+commit 1cc5e962ba1b1ca2919b9972181a5578aa8bcbbd
+Author: pablonataniel76 <pablo.nataniel76@gmail.com>
+Date:   Sat May 2 11:31:04 2020 -0400
+
+    septima caracteristica r2
+
+commit 3cd52b1266a6c21fdcf4f8d83d726ab96c1a1efe
+Merge: 29b5cd3 22ca368
+Author: pablonataniel76 <pablo.nataniel76@gmail.com>
+Date:   Sat May 2 11:29:42 2020 -0400
+
+    5 y 6 corregido
+
+commit 29b5cd3df864493227582d76b2609a343627be52
+Author: pablonataniel76 <pablo.nataniel76@gmail.com>
+Date:   Sat May 2 11:28:09 2020 -0400
+
+    5 y 6 corregido
+
+commit 22ca368c9b7fde7a9aef464346adb07aa1877bc2
+Author: pablonataniel76 <pablo.nataniel76@gmail.com>
+Date:   Sat May 2 11:25:53 2020 -0400
+
+    sexta caracteristica r2
+
+commit 124a4ac485bef7feeeb58d4a61be2f840c04d3d4
+Author: pablonataniel76 <pablo.nataniel76@gmail.com>
+Date:   Sat May 2 11:14:26 2020 -0400
+
+    cuarta caracteristica r2
+
+commit abfcbbfc062edb2fd8556d19fef7021d09334162
+Author: pablonataniel76 <pablo.nataniel76@gmail.com>
+Date:   Sat May 2 11:13:13 2020 -0400
+
+    tercera caracteristica r2
+
+commit a6b4cf125667169ba6e99a05145a93cd14769eb3
+Author: pablonataniel76 <pablo.nataniel76@gmail.com>
+Date:   Sat May 2 11:11:05 2020 -0400
+
+    tercera caracteristica r2
+
+commit 284e09d4f54a57bf273d48d6edc77d5fe067261e
+Author: pablonataniel76 <pablo.nataniel76@gmail.com>
+Date:   Sat May 2 11:09:05 2020 -0400
+
+    segunda caracteristica r2 no cebolla
+
+commit 17417ddc5ae4f65a558a6ad93bf224cb3d97a745
+Author: pablonataniel76 <pablo.nataniel76@gmail.com>
+Date:   Sat May 2 11:06:36 2020 -0400
+
+    primera caracteristica r2
+
