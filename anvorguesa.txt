@@ -5,3 +5,4 @@ tomate
 pimenton
 pepinillo
 no cebolla
+carne
